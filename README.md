@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on something
 - 🤔 I’m looking for help with coding
 - 💬 Ask me about anything 
-- 📫 How to reach me: in/emre-yavuz-4b849a18b
+###- 📫 How to reach me: in/emre-yavuz-4b849a18b
 - ⚡ Fun fact: no idea 
 -->
