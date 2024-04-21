@@ -1,6 +1,6 @@
 ### Hi there 👋
-###- 💬 Ask me about anything 
-###- 📫 How to reach me: in/emre-yavuz-4b849a18b
+### 💬 Ask me about anything 
+### 📫 How to reach me: in/emre-yavuz-4b849a18b
 <!--
 **Rlueer/Rlueer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
